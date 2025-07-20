@@ -13,7 +13,7 @@ DURATION: 4 WEEEKS
 
 DESCRIPTION OF THE TASK Created a Public GitHub Repository
 
-Repository name: cloud-storage-task.
+Repository name: cloud-storage-setup
 
 Uploaded Files to the Repository
 
